@@ -24,7 +24,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello, World!4";
+        return "Hello, World!45";
     }
 
     private static final Logger logger =
